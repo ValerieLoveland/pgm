@@ -1,0 +1,26 @@
+.menu {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 30px;
+  white-space: pre;
+}
+
+.pangram {
+  padding: 20px;
+  padding-top: 40px;
+}
+
+.whatIsInputAnyway [type="text"] {
+  font-family: Georgia, "Times New Roman", Times, serif;
+
+  height: 30px;
+  width: 140px;
+  padding: 20px 20px;
+  box-sizing: border-box;
+orientation: center;
+  font-size: 25px;
+}
+
+.won {
+  padding-top: 45px;
+  color: crimson;
+}
